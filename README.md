@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhilmjoshi
+- 👋 Hi, I’m @nikhilmjoshi (Nikhil M Joshi)
 - 👀 I’m interested in pythonr coding and algo trading
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on algo trading
